@@ -1,2 +1,2 @@
 # zbuffer
-This is my computer graphics course source code, which mainly implements the scan line Z buffer hidden surface elimination algorithm.
+这是我计算机图形学课程的大作业，其中实现了Z缓冲扫描线算法。当年代码能力太渣，让各位大佬见笑了。
